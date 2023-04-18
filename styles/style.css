@@ -248,6 +248,9 @@
   max-width: 760px;
   margin-top: 68px;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
 }
 
 .card {
