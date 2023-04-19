@@ -263,7 +263,7 @@
   color: #fff;
 }
 
-.staff__card {
+.staff__cards {
   max-width: 760px;
   display: flex;
   flex-wrap: wrap;
@@ -425,7 +425,8 @@
 }
 
 .footer__logo {
-  width: 153px;
+  width: 116px;
+  height: 21px;
 }
 
 .footer__list {
@@ -465,6 +466,6 @@
   margin-right: 10px;
 }
 
-.footer__copyrights {
+.footer__copyright {
   margin: 108px 0 0;
 }
