@@ -393,7 +393,7 @@
 }
 
 .about__paragraph {
-  margin: 32px;
+  margin: 0 0 32px;
   justify-content: center;
   position: relative;
   z-index: 2;
